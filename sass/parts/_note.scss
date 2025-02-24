@@ -79,7 +79,7 @@
 }
 
 .note-icon::before {
-  content: '🕮';
+  content: '📖'; //unicode doesnt support 🕮 everywhere
   color: var(--primary-color);
   position: absolute;
   left: 16px;
